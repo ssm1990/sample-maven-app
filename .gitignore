@@ -1,0 +1,13 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+*.log
+dependency-reduced-pom.xml
+.DS_Store
